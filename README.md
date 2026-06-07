@@ -19,12 +19,11 @@ Results-oriented Data Analyst with a solid background in Information Science. Ex
 
 ### 🚀 Key Projects
 
-* **[span_0](start_span)[Saudi National Socio-Economic KPIs Dashboard](https://github.com/Areej-almutairi/Saudi-National-Socio-Economic-Dashboard)**: A comprehensive star-schema database and Power BI dashboard utilizing GASTAT datasets to track and visualize national performance indicators.[span_0](end_span)
-* **[span_1](start_span)[Sales Performance Analysis Using SQL](https://github.com/Areej-almutairi/sales_performance_sql)**: Analyzing regional revenue and product category trends using advanced SQL queries and aggregate functions.[span_1](end_span)
+* **[Saudi National Socio-Economic KPIs Dashboard](https://github.com/Areej-almutairi/Saudi-National-Socio-Economic-Dashboard)**: A comprehensive star-schema database and Power BI dashboard utilizing GASTAT datasets to track and visualize national performance indicators.
+* **[Sales Performance Analysis Using SQL](https://github.com/Areej-almutairi/sales_performance_sql)**: Analyzing regional revenue and product category trends using advanced SQL queries and aggregate functions.
 
 ---
 
 ### 📬 Connect with Me
-* **[span_2](start_span)LinkedIn:** [linkedin.com/in/areej-almutairii](https://www.linkedin.com/in/areej-almutairii)[span_2](end_span)
-* **[span_3](start_span)Email:** areej.almutairi@outlook.com[span_3](end_span)s://www.linkedin.com/in/areej-almutairii)
+* **LinkedIn:** [linkedin.com/in/areej-almutairii](https://www.linkedin.com/in/areej-almutairii)
 * **Email:** areej.almutairi@outlook.com
