@@ -18,13 +18,13 @@ Results-oriented Data Analyst with a solid background in Information Science. Ex
 ---
 
 ### 🚀 Key Projects
-* **[Saudi National Socio-Economic KPIs Dashboard](https://github.com/Areej-almutairi/Socio-Economic-Data-Analysis)**: A comprehensive star-schema database and Power BI dashboard utilizing GASTAT datasets to track and visualize national performance indicators.
+* **[Saudi National Socio-Economic KPIs Dashboard](https://github.com/Areej-almutairi/Saudi-National-Socio-Economic-Dashboard)**: A comprehensive star-schema database and Power BI dashboard utilizing GASTAT datasets to track and visualize national performance indicators.
 
 ---
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Areej-almutairi&show_icons=true&theme=radical" alt="Areej's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=areej-almutairi&show_icons=true&theme=radical" alt="Areej's GitHub Stats" />
 </p>
 
 ---
