@@ -34,5 +34,5 @@ I am a Data Analyst and Business Intelligence Specialist dedicated to transformi
 
 ###  Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/areej-almutairi](linkedin.com/in/areej-almutairii)
+* **LinkedIn:** [linkedin.com/in/areej-almutairii](linkedin.com/in/areej-almutairii)
 * **Email:** [areej_almutairi@outlook.com](mailto:areej_almutairi@outlook.com)
