@@ -27,7 +27,7 @@ I am a Data Analyst and Business Intelligence Specialist dedicated to transformi
 * **[Sales & Customer Insights Project](https://github.com/Areej-almutairi/sales_customer_insights)**
   * *Power BI & DAX* ➔ A comprehensive Business Intelligence platform delivering deep-dive analysis on sales profitability and customer feedback loops. Integrated custom tooltips and machine learning visuals (Key Influencers & Decomposition Trees) to drive root-cause analysis.
 
-* **[Enterprise-Grade Relational Database Design]([https://github.com/Areej-almutairi/scalable-relational-database-design](https://github.com/Areej-almutairi/scalable-relational-db-design))**
+* **[Enterprise-Grade Relational Database Design](https://github.com/Areej-almutairi/scalable-relational-db-design)**
   * *MySQL & Database Architecture* ➔ A highly scalable, normalized relational database blueprint modeled for micro-blogging architectures. Enforced strict referential integrity, automated transaction logging, and secure data ingestion through specialized stored procedures.
 
 ---
